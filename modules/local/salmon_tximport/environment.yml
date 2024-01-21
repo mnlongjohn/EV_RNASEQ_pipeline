@@ -1,0 +1,7 @@
+name: salmon_tximport
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconda::bioconductor-tximeta=1.12.0

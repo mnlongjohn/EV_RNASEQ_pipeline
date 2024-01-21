@@ -1,0 +1,7 @@
+name: salmon_summarizedexperiment
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconda::bioconductor-summarizedexperiment=1.24.0
